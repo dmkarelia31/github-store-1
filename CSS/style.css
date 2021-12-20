@@ -4,5 +4,5 @@ body {
 
 .header_name {
   font-family: "Courier New", Courier, monospace;
-  font: optional;
+  text-decoration-color: blue;
 }
