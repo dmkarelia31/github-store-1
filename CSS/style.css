@@ -1,4 +1,8 @@
 body {
-  background-color: black;
-  font-size: 14px;
+  background-color: #fff;
+}
+
+.header_name {
+  font-family: "Courier New", Courier, monospace;
+  font: optional;
 }
